@@ -1,1 +1,3 @@
 # Computer-Vision
+
+In this repository, code examples used for computer vision and deep learning are provided. With the use of deep learning libraries like Keras and Google's Tensorflow, these code examples provide a coding concept of certain important tasks within computer vision like generating bound boxes and classifying images. Feel free to use this code to demonstrate deep learning concepts but understand that these code examples will not help in doing advanced tasks for projects. It is recommended that for projects that you should use pretrained deep learning models since it is easily accessible and relatively easy to implement overall. 
